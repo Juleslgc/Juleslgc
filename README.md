@@ -117,7 +117,8 @@ L’apprentissage continu est au cœur de ma démarche 📚, que ce soit en form
 
 ## 🌐 Me suivre et me contacter
 
-Je mettrai bientôt ici les liens vers mes profils professionnels et réseaux sociaux pour que nous puissions échanger plus facilement 📱.
+🔗 [Mon LinkedIn](www.linkedin.com/in/jules-ventura-2948b8306)
+
 
 ---
 
