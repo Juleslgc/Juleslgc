@@ -22,7 +22,9 @@ Je suis naturellement **curieux** 🧐, toujours en quête d’apprentissage �
 - Flask 🍶  
 - SQLAlchemy 🐍📦  
 - API REST 🔗  
-- JSON, JSON Web Token (JWT) 🔐  
+- JSON, JSON Web Token (JWT) 🔐
+- Node.js 🚀
+- React ⚛️
 
 ### Outils de développement & testing  
 - Git / GitHub 🐙  
